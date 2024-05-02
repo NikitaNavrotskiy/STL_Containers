@@ -1,7 +1,7 @@
-#ifndef _S21_CONTAINERSPLUS_H
-#define _S21_CONTAINERSPLUS_H
+#ifndef _MY_CONTAINERSPLUS_H
+#define _MY_CONTAINERSPLUS_H
 
-#include "headers/s21_array.h"
-#include "headers/s21_multiset.h"
+#include "headers/my_array.h"
+#include "headers/my_multiset.h"
 
 #endif

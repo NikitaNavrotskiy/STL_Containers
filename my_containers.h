@@ -1,11 +1,11 @@
-#ifndef _S21_CONTAINERS_H
-#define _S21_CONTAINERS_H
+#ifndef _MY_CONTAINERS_H
+#define _MY_CONTAINERS_H
 
-#include "headers/s21_list.h"
-#include "headers/s21_map.h"
-#include "headers/s21_queue.h"
-#include "headers/s21_set.h"
-#include "headers/s21_stack.h"
-#include "headers/s21_vector.h"
+#include "headers/my_list.h"
+#include "headers/my_map.h"
+#include "headers/my_queue.h"
+#include "headers/my_set.h"
+#include "headers/my_stack.h"
+#include "headers/my_vector.h"
 
 #endif
